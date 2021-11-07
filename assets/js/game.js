@@ -279,5 +279,3 @@ var enemyInfo = [
 
 //start game when page loads
 startGame();
-//shop();
-fight();
